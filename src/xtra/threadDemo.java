@@ -22,7 +22,7 @@ public class threadDemo {
 			
 		}catch(Exception e)
 		{
-			
+			System.out.println("catch happend");
 		}
 	}
 
